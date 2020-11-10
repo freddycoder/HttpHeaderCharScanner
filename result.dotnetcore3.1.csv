@@ -1,257 +1,257 @@
-char;statusCode;customResult;exception
-0;400;False;
-1;200;
-2;200;
-3;200;
-4;200;
-5;200;
-6;200;
-7;200;
-8;200;
-9;422;True;
-10;400;False;
-11;422;True;
-12;422;True;
-13;400;False;
-14;200;
-15;200;
-16;200;
-17;200;
-18;200;
-19;200;
-20;200;
-21;200;
-22;200;
-23;200;
-24;200;
-25;200;
-26;200;
-27;200;
-28;200;
-29;200;
-30;200;
-31;200;
-32;422;True;
-33;200;
-34;200;
-35;200;
-36;200;
-37;200;
-38;200;
-39;200;
-40;200;
-41;200;
-42;200;
-43;200;
-44;200;
-45;200;
-46;200;
-47;200;
-48;200;
-49;200;
-50;200;
-51;200;
-52;200;
-53;200;
-54;200;
-55;200;
-56;200;
-57;200;
-58;200;
-59;200;
-60;200;
-61;200;
-62;200;
-63;200;
-64;200;
-65;200;
-66;200;
-67;200;
-68;200;
-69;200;
-70;200;
-71;200;
-72;200;
-73;200;
-74;200;
-75;200;
-76;200;
-77;200;
-78;200;
-79;200;
-80;200;
-81;200;
-82;200;
-83;200;
-84;200;
-85;200;
-86;200;
-87;200;
-88;200;
-89;200;
-90;200;
-91;200;
-92;200;
-93;200;
-94;200;
-95;200;
-96;200;
-97;200;
-98;200;
-99;200;
-100;200;
-101;200;
-102;200;
-103;200;
-104;200;
-105;200;
-106;200;
-107;200;
-108;200;
-109;200;
-110;200;
-111;200;
-112;200;
-113;200;
-114;200;
-115;200;
-116;200;
-117;200;
-118;200;
-119;200;
-120;200;
-121;200;
-122;200;
-123;200;
-124;200;
-125;200;
-126;200;
-127;200;
-128;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-129;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-130;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-131;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-132;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-133;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-134;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-135;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-136;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-137;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-138;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-139;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-140;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-141;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-142;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-143;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-144;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-145;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-146;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-147;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-148;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-149;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-150;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-151;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-152;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-153;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-154;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-155;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-156;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-157;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-158;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-159;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-160;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-161;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-162;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-163;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-164;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-165;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-166;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-167;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-168;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-169;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-170;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-171;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-172;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-173;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-174;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-175;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-176;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-177;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-178;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-179;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-180;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-181;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-182;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-183;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-184;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-185;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-186;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-187;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-188;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-189;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-190;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-191;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-192;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-193;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-194;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-195;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-196;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-197;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-198;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-199;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-200;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-201;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-202;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-203;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-204;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-205;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-206;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-207;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-208;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-209;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-210;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-211;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-212;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-213;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-214;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-215;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-216;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-217;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-218;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-219;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-220;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-221;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-222;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-223;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-224;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-225;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-226;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-227;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-228;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-229;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-230;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-231;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-232;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-233;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-234;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-235;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-236;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-237;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-238;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-239;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-240;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-241;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-242;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-243;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-244;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-245;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-246;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-247;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-248;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-249;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-250;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-251;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-252;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-253;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-254;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
-255;;;One or more errors occurred. (Request headers must contain only ASCII characters.)
+char,statusCode,customResult,exception
+0,400,False,
+1,200,
+2,200,
+3,200,
+4,200,
+5,200,
+6,200,
+7,200,
+8,200,
+9,422,True,
+10,400,False,
+11,422,True,
+12,422,True,
+13,400,False,
+14,200,
+15,200,
+16,200,
+17,200,
+18,200,
+19,200,
+20,200,
+21,200,
+22,200,
+23,200,
+24,200,
+25,200,
+26,200,
+27,200,
+28,200,
+29,200,
+30,200,
+31,200,
+32,422,True,
+33,200,
+34,200,
+35,200,
+36,200,
+37,200,
+38,200,
+39,200,
+40,200,
+41,200,
+42,200,
+43,200,
+44,200,
+45,200,
+46,200,
+47,200,
+48,200,
+49,200,
+50,200,
+51,200,
+52,200,
+53,200,
+54,200,
+55,200,
+56,200,
+57,200,
+58,200,
+59,200,
+60,200,
+61,200,
+62,200,
+63,200,
+64,200,
+65,200,
+66,200,
+67,200,
+68,200,
+69,200,
+70,200,
+71,200,
+72,200,
+73,200,
+74,200,
+75,200,
+76,200,
+77,200,
+78,200,
+79,200,
+80,200,
+81,200,
+82,200,
+83,200,
+84,200,
+85,200,
+86,200,
+87,200,
+88,200,
+89,200,
+90,200,
+91,200,
+92,200,
+93,200,
+94,200,
+95,200,
+96,200,
+97,200,
+98,200,
+99,200,
+100,200,
+101,200,
+102,200,
+103,200,
+104,200,
+105,200,
+106,200,
+107,200,
+108,200,
+109,200,
+110,200,
+111,200,
+112,200,
+113,200,
+114,200,
+115,200,
+116,200,
+117,200,
+118,200,
+119,200,
+120,200,
+121,200,
+122,200,
+123,200,
+124,200,
+125,200,
+126,200,
+127,200,
+128,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+129,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+130,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+131,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+132,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+133,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+134,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+135,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+136,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+137,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+138,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+139,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+140,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+141,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+142,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+143,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+144,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+145,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+146,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+147,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+148,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+149,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+150,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+151,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+152,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+153,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+154,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+155,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+156,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+157,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+158,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+159,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+160,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+161,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+162,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+163,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+164,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+165,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+166,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+167,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+168,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+169,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+170,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+171,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+172,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+173,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+174,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+175,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+176,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+177,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+178,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+179,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+180,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+181,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+182,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+183,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+184,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+185,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+186,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+187,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+188,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+189,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+190,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+191,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+192,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+193,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+194,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+195,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+196,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+197,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+198,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+199,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+200,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+201,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+202,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+203,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+204,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+205,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+206,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+207,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+208,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+209,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+210,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+211,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+212,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+213,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+214,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+215,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+216,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+217,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+218,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+219,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+220,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+221,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+222,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+223,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+224,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+225,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+226,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+227,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+228,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+229,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+230,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+231,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+232,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+233,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+234,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+235,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+236,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+237,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+238,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+239,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+240,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+241,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+242,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+243,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+244,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+245,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+246,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+247,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+248,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+249,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+250,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+251,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+252,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+253,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+254,,One or more errors occurred. (Request headers must contain only ASCII characters.)
+255,,One or more errors occurred. (Request headers must contain only ASCII characters.)
